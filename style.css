@@ -1,0 +1,33 @@
+#Video{
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+.travel_main.Div{
+    border: 1px solid lightgrey;
+}
+
+.travel_main.Div img{
+width: 100%;
+}
+.travel_main.Div h5, .travel_main.Div p{
+    margin: 20px;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float: right;
+}
+.achievement_text span{
+    color: orange;
+}
+.new{
+    margin-bottom: 20px;
+}
+#contact iframe{
+  width: 100%;  
+}
